@@ -1,5 +1,7 @@
 # HomeAssistant
 
+Automations and such for my smart home powered by Google and Home Assistant.
+
 ## Automations
 Nightscout has been a lifesaver(literally!) in my house. When I found a Home Assistant integration for it, I went for it.
 
